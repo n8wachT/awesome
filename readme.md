@@ -44,7 +44,7 @@
 
 ## Contents
 
-- [Platforms](#platforms)
+- [Proof of Existence](#proof-of-existence)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
@@ -69,7 +69,7 @@
 - [Miscellaneous](#miscellaneous)
 
 
-## Platforms
+## Proof of Existence
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
