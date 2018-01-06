@@ -56,7 +56,7 @@
 - [Bots](#bots)
 
 - [Wallets](#wallets)
-	- [Wallets | Online](wallets-online)
+	- [Wallets | Online](#wallets-online)
 	- [Xapo.com](http://www.xapo.com)
         - [StrongCoin.com](https://www.strongcoin.com)
         - [GreenAddress.it](https://greenaddress.it/nl)
