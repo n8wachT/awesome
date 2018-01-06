@@ -54,7 +54,6 @@
 - [Miscellaneous](#miscellaneous)
 - [Faucets](#faucets)
 - [Bots](#bots)
-/p
 - [Wallets | Online](#wallets-online)
 - [Wallets | Desktop](#wallets-desktop)
 - [Wallets | Coldstorage](#wallets-coldstorage)
