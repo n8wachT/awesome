@@ -57,6 +57,8 @@
 
 - [Wallets](#wallets)
 	- [Wallets | Online](#wallets-online)
+	- [GreenAddress.it](https://greenaddress.it/nl)
+
 	- [Wallets | Desktop](#wallets-desktop)
 	- [Wallets | Coldstorage](#wallets-coldstorage)
 	- [Wallets | Brain/Paper](#wallets-brain-paper)
