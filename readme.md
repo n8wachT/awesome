@@ -57,6 +57,10 @@
 
 - [Wallets](#wallets)
 	- [Wallets | Online](wallets-online)
+	- Xapo.com(http://www.xapo.com)
+StrongCoin.com <https://www.strongcoin.com/>
+RushWallet <http://www.rushwallet.com/>
+Pheeva Hot Wallet <http://pheeva.com/>
 	- [GreenAddress.it](https://greenaddress.it/nl)
 
 	- [Wallets | Desktop](#wallets-desktop)
