@@ -54,7 +54,11 @@
 - [Miscellaneous](#miscellaneous)
 - [Faucets](#faucets)
 - [Bots](#bots)
-- [Wallets | Online](#wallets-online)
+
+- [Wallets](#wallets)
+	- [Wallets | Online](#wallets-online)
+
+
 - [Wallets | Desktop](#wallets-desktop)
 - [Wallets | Coldstorage](#wallets-coldstorage)
 - [Wallets | Brain/Paper](#wallets-brain-paper)
@@ -77,7 +81,7 @@
 - [Token | ICO's](#token-ico)
 
 
-## Proof of Existence
+## About
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -109,8 +113,7 @@
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
 
 
-## Programming Languages
-
+## Wallets | Online
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 	- [Standard Style](https://github.com/standard/awesome-standard) - Style guide and linter.
