@@ -58,7 +58,6 @@
 - [Wallets](#wallets)
 	- [Wallets | Online](#wallets-online)
 	- [Wallets | Desktop(#wallets-desktop)
-        - [Wallets | Desktop](#wallets-desktop)
         - [Wallets | Coldstorage](#wallets-coldstorage)
         - [Wallets | Brain/Paper](#wallets-brain-paper)
 
