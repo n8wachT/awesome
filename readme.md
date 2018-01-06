@@ -57,10 +57,9 @@
 
 - [Wallets](#wallets)
 	- [Wallets | Online](#wallets-online)
-	- [Wallets | Desktop(#wallets-desktop)
-        - [Wallets | Coldstorage](#wallets-coldstorage)
-        - [Wallets | Brain/Paper](#wallets-brain-paper)
-
+	- [Wallets | Desktop](#wallets-desktop)
+	- [Wallets | Coldstorage](#wallets-coldstorage)
+	- [Wallets | Brain/Paper](#wallets-brain-paper)
 - [Online Exchanges](#online-exchanges)
 - [Online Brokers](#online-brokers)
 - [Local Trading](#local-trading)
