@@ -57,9 +57,9 @@
 
 - [Wallets](#wallets)
 	- [Wallets | Online](#wallets-online)
-	- [Xapo.com](http://www.xapo.com)
         - [StrongCoin.com](https://www.strongcoin.com)
         - [GreenAddress.it](https://greenaddress.it/nl)
+	- [Xapo](https://www.xapo.com)
 
 	- [Wallets | Desktop](#wallets-desktop)
 	- [Wallets | Coldstorage](#wallets-coldstorage)
